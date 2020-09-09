@@ -1,0 +1,125 @@
+{
+  "main": {
+    "name": "Shadman Khan",
+    "occupation": "ReactJS & Vanilla JavaScript Developer",
+    "description": "who focuses on writing clean, elegant and efficient code",
+    "image": "PC_Shadman.jpg",
+    "bio": "My name is Shadman, I'm a Full Stack ReactJS Developer. Currently I'm working at E-Commerce website while also studying.",
+    "contactmessage": "Get in touch with me to receive further details, or anything else.",
+    "email": "contactshadman@gmail.com",
+    "phone": "+91 90 269 22911",
+    "address": {
+      "street": "592 Ka 59, Raebareily Road",
+      "city": "Lucknow",
+      "state": "Uttar Pradesh",
+      "zip": "226025"
+    },
+    "website": "#",
+    "resumedownload": "ShadmanAhmedKhan_Resume.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/ShadmanAhmedKhan/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/shadmanakhan/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/shadman_akhan/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/shadmankhan",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Coding can make you sweat for hours, if you don't have appropriate skill-set.",
+    "education": [
+      {
+        "school": "Dr. APJ Abdul Kalam Technical University",
+        "degree": "Bachelor of Technology, major in Computer Science",
+        "graduated": "June 2021",
+        "description": "Graduation is under process. Want to hire me? Wait till 2021!"
+      }
+    ],
+    "work": [
+      {
+        "company": "",
+        "title": "",
+        "years": "",
+        "description": ""
+      },
+      {
+        "company": "",
+        "title": "",
+        "years": "",
+        "description": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "JavaScript",
+        "level": "88%"
+      },
+      {
+        "name": "ReactJS",
+        "level": "75%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "ReduxJS",
+        "level": "55%"
+      },
+      {
+        "name": "HTML5",
+        "level": "85%"
+      },
+      {
+        "name": "MySQL",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Random Quote Generator",
+        "category": "Random Quote Generator Web Application built with ReactJS",
+        "image": "quote-generator.jpg",
+        "url": "https://quotes-shadman.netlify.app/"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Netflix Clone built with ReactJS",
+        "image": "netflix-clone.jpeg",
+        "url": "https://netflix-shadman.netlify.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Some people, through luck and skill, end up with a lot of assets. If you're good at kicking a ball, writing software, investing in stocks, it pays extremely well.",
+        "user": "Bill Gates"
+      },
+      {
+        "text": "All of my friends who have younger siblings who are going to college or high school - my number one piece of advice is: You should learn how to program.",
+        "user": "Mark Zuckerberg"
+      }
+    ]
+  }
+}
