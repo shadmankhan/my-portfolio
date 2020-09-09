@@ -1,4 +1,4 @@
-# Shadman A Khan ReactJS Portfolio Template      
+# Shadman Khan ReactJS Portfolio Template      
 
 ## 👇 WATCH THIS FIRST 👇
 ## https://tinyurl.com/customizeReactPortfolio
